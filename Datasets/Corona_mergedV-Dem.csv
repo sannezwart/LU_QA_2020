@@ -1,5 +1,5 @@
 country,ISOcode,cases,deaths,popdata2018,popdata2018_log,cases_log,deaths_log,ccode,_merge,country_name,country_id,v2x_polyarchy,v2x_libdem,v2x_partipdem
-United_States_of_America,BSA,609516,26057,327167434,8.5147705,5.784986,4.4159412,2,both in master and using data,United States of America,20,.79799998,.69999999,.56599998
+United_States_of_America,USA,609516,26057,327167434,8.5147705,5.784986,4.4159412,2,both in master and using data,United States of America,20,.79799998,.69999999,.56599998
 Canada,CAN,27046,903,37058856,7.568892,4.4321189,2.9561684,20,both in master and using data,Canada,66,.866,.77600002,.61900002
 Cuba,CUB,766,21,11338138,7.0545416,2.8847954,1.3424227,40,both in master and using data,Cuba,155,.20299999,.090000004,.133
 Haiti,HTI,40,3,11123176,7.0462289,1.6127839,.60206002,41,both in master and using data,Haiti,26,.449,.23899999,.25400001
